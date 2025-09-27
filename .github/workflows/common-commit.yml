@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: sukolenvo/experimental-common-workflow/.github/workflows/commit/commit.yaml@master
+    uses: sukolenvo/experimental-common-workflow/.github/workflows/commit.yaml@master
